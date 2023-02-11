@@ -1,5 +1,5 @@
 # Ongoing list of web scraping projects:
 
-- US market sector data from Fidelity Investments
-- All of NPR's book lists from 2013 to 2022 (3k+ titles)
-- NYTimes' 2022 list of best books web scraped into a dataframe containing author, title, blurb, and review link
+- 3k+ book titles from NPR's 2013-2022 book lists (JSON and Selenium)
+- US market sector data from Fidelity Investments (Beautiful Soup)
+- NYTimes' review blurbs for best books of 2022 (Beautiful Soup)
